@@ -144,23 +144,23 @@ h1 {
   z-index: -1;
 }
 
-.race-table td:nth-child(5),
-.race-table td:nth-child(6) {
+.race-table td:nth-child(4),
+.race-table td:nth-child(5) {
   border-left: 1px solid #ddd;
 }
 
-.race-table td:nth-child(6) {
+.race-table td:nth-child(5) {
   background: #f9f9f9;
 }
 
-.buy td {
+/*.buy td {
   background: rgba(0, 128, 0, 0.075) !important;
 }
 
 .buy td:last-child {
   font-weight: 900;
   color: green;
-}
+}*/
 
 h2 {
   font-weight: 500;
